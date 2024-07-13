@@ -2,3 +2,8 @@
     color: rgb(0,0,255);
     font-size: 24px;
 }
+#another {
+    background-color: rgb(rgb(135, 255, 163), green, blue);
+    font-size: 24px;
+    font-weight: bold;
+}
