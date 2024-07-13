@@ -1,0 +1,16 @@
+/* solution with type selector
+ div p {
+    background-color: yellow;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+} */
+
+.container .text {
+    background-color: yellow;
+    font-size: 20px;
+    color: red;
+    text-align: center;
+}
+
+/* solution with class selector */
