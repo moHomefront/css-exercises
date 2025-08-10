@@ -14,21 +14,21 @@ body {
 .title {
   background: #e3f4ff;
   font-style: bold;
-  font-size: 14px;
-  padding: 5px;
+  font-size: 16px;
+  padding: 8px;
   margin-top: 12px;
 }
 
 .content {
   background: #e3f4ff;
-  margin-bottom: 10px;
-  padding: 10px 5px;
+  margin: 8px 0px;
+  padding: 16px 8px;
 }
 
 .button-container {
   background: #e3f4ff;
   text-align: center;
-  padding: 3px;
+  padding: 8px;
 }
 
 button {
@@ -36,5 +36,7 @@ button {
   border: 1px solid #eee;
   display: block;
   margin: auto;
+  padding: 8px 24px;
+  text-align: center;
   font-size: 14px;
 }
